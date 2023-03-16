@@ -118,8 +118,23 @@ In addition, nearly all factories in the US will be unable to produce any produc
 
 If the rail laborers go on strike, 80% of the nation’s agricultural traffic will come to a complete stop, blocking factory farms - especially - from receiving the necessary raw materials they need to produce food and ship it to the rest of the country.
 
-If the air freight laborers go on strike, industries will lose their final option for moving products and goods. In addition, air freight is commonly used for medical supplies, perishables, and urgent deliveries. This accounts for 
+If the air freight laborers go on strike, industries will lose their final option for moving products and goods. In addition, air freight is commonly used for medical supplies, perishables, and urgent deliveries. This accounted for approximately $108 billion in air freight revenue in 2020 alone.
 
+
+#### Unions
+
+Unions are the life force of this plan. They are structured and practiced in the ways of striking and bargaining. We benefit from the collective action of all of the unions together. Just as a union makes collective bargaining possible for the individual people, unionizing the unions makes collective bargaining possible for all of the unions together.
+
+To convince all of the unions to work with us, they must be represented in our fight. If our values are not their values, we must make their values (at least as many as possible) our values, too. This plan represents us all.
+
+The first point of order, I believe, is to discuss and work with the Freight Division of the International Brotherhood of Teamsters union whether they would join us in this plan. We must hear out what they want, and find both the overlap and common ground.
+
+We must do this for all of the applicable unions. We must contact union leaders and representatives to discuss how and when we can make this call to action most effective. We must know when freight and shipping is its most busy, where the most costly shipping and logistics occur, and how to limit economic throughput.
+
+
+#### Reality
+
+The fact is, unions or not, this nation runs on labor and there's no replacement for us, even with automation.
 
 #### Sources
 

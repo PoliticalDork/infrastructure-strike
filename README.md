@@ -123,13 +123,28 @@ If the air freight laborers go on strike, industries will lose their final optio
 
 #### Unions
 
+[Smart Union - Air, Rail, Trucking](https://smart-union.org/)
+
+[UPS Teamsters](https://www.upsteamstersunited.org/)
+
+[US Teamsters - Freight Division](https://teamster.org/divisions/freight-dvision/)
+
+[List of Rail Road Worker Unions](https://www.railroadworkersunited.org/us-unions-in-national-bargaining)
+
+[Transport Workers Union of America](https://www.twu.org/)
+
+[Amalgamated Transit Union](https://atu.org/)
+
+
+
 Unions are the life force of this plan. They are structured and practiced in the ways of striking and bargaining. We benefit from the collective action of all of the unions together. Just as a union makes collective bargaining possible for the individual people, unionizing the unions makes collective bargaining possible for all of the unions together.
 
 To convince all of the unions to work with us, they must be represented in our fight. If our values are not their values, we must make their values (at least as many as possible) our values, too. This plan represents us all.
 
 The first point of order, I believe, is to discuss and work with the Freight Division of the International Brotherhood of Teamsters union whether they would join us in this plan. We must hear out what they want, and find both the overlap and common ground.
 
-We must do this for all of the applicable unions. We must contact union leaders and representatives to discuss how and when we can make this call to action most effective. We must know when freight and shipping is its most busy, where the most costly shipping and logistics occur, and how to limit economic throughput.
+We must do this for all of the applicable unions. We must contact union leaders and representatives to discuss how and when we can make this call to action most effective. We must know when freight and shipping is at its most busy time, where the most costly shipping and logistics occur, and how to limit economic throughput through strikes creating choke points. It may only be necessary to have a limited and targeted number of strikes happening at any one time, or at all.
+
 
 
 #### Reality

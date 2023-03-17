@@ -123,20 +123,6 @@ If the air freight laborers go on strike, industries will lose their final optio
 
 #### Unions
 
-[Smart Union - Air, Rail, Trucking](https://smart-union.org/)
-
-[UPS Teamsters](https://www.upsteamstersunited.org/)
-
-[US Teamsters - Freight Division](https://teamster.org/divisions/freight-dvision/)
-
-[List of Rail Road Worker Unions](https://www.railroadworkersunited.org/us-unions-in-national-bargaining)
-
-[Transport Workers Union of America](https://www.twu.org/)
-
-[Amalgamated Transit Union](https://atu.org/)
-
-
-
 Unions are the life force of this plan. They are structured and practiced in the ways of striking and bargaining. We benefit from the collective action of all of the unions together. Just as a union makes collective bargaining possible for the individual people, unionizing the unions makes collective bargaining possible for all of the unions together.
 
 To convince all of the unions to work with us, they must be represented in our fight. If our values are not their values, we must make their values (at least as many as possible) our values, too. This plan represents us all.
@@ -151,16 +137,23 @@ We must do this for all of the applicable unions. We must contact union leaders 
 
 The fact is, unions or not, this nation runs on labor and there's no replacement for us, even with automation.
 
+
+#### Union Website Links
+- [Smart Union - Air, Rail, Trucking](https://smart-union.org/)
+- [UPS Teamsters](https://www.upsteamstersunited.org/)
+- [US Teamsters - Freight Division](https://teamster.org/divisions/freight-dvision/)
+- [List of Rail Road Worker Unions](https://www.railroadworkersunited.org/us-unions-in-national-bargaining)
+- [Transport Workers Union of America](https://www.twu.org/)
+- [Amalgamated Transit Union](https://atu.org/)
+
+
 #### Sources
 
 
 - [[1]](https://abcnews.go.com/Business/looming-railroad-strike-cripple-us-economy-transportation/story?id=89587287) Railroad Strike could lead to $2B/day economic output loss.
 
-
 - [[2]](https://finance.yahoo.com/news/much-freedom-convoy-cost-us-175651641.html) Freedom Convoy economic cost
 
-
 - [[3]](https://www.forbes.com/sites/jackkelly/2022/01/12/there-is-a-massive-trucker-shortage-causing-supply-chain-disruptions-and-high-inflation/?sh=5339dfba5ec4) Trucker shortage
-
 
 - [[4]](https://www.iata.org/en/iata-repository/publications/economic-reports/the-united-states--value-of-aviation/) Airline economic statistics

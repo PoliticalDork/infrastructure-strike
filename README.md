@@ -1,3 +1,6 @@
+<sup>Draft (June 8th, 2023)</sup>
+
+
 ## Brief
 
 The working class has gotten a raw deal for the entity of the United States of America social experiment.
@@ -131,29 +134,46 @@ The first point of order, I believe, is to discuss and work with the Freight Div
 
 We must do this for all of the applicable unions. We must contact union leaders and representatives to discuss how and when we can make this call to action most effective. We must know when freight and shipping is at its most busy time, where the most costly shipping and logistics occur, and how to limit economic throughput through strikes creating choke points. It may only be necessary to have a limited and targeted number of strikes happening at any one time, or at all.
 
-
-
 #### Reality
 
 The fact is, unions or not, this nation runs on labor and there's no replacement for us, even with automation.
 
+We’ve learned at a much smaller scale that union strikes work. The capitalists are forced to the bargaining table when laborers strike. We also know what tactics the capitalist class uses to break up strikes:
 
-#### Union Website Links
-- [Smart Union - Air, Rail, Trucking](https://smart-union.org/)
-- [UPS Teamsters](https://www.upsteamstersunited.org/)
-- [US Teamsters - Freight Division](https://teamster.org/divisions/freight-dvision/)
-- [List of Rail Road Worker Unions](https://www.railroadworkersunited.org/us-unions-in-national-bargaining)
-- [Transport Workers Union of America](https://www.twu.org/)
-- [Amalgamated Transit Union](https://atu.org/)
+1. Take away healthcare.
+2. Wait it out until the laborers can no longer afford to wait to come to the bargaining table.
+3. Ask the President of the United States to make the strike illegal.
 
+So how do we counter the capitalists’ tactics? For points 1 and 2, everyone who is not directly involved in a strike should help by chipping in small donations here and there. A few million people sending a few bucks to support a few thousand people is more than enough to sustain a strike for as long as it takes.
 
-#### Sources
+For point 3, however, this is not about striking. This is about a peaceful revolution. And we, the people, do not respect the laws of a government that we are revolting against. Those are the laws that keep us subject to abuse by the capitalists. So if the US Government decided to make our strike illegal, it would have NO effect. We would not stop striking. They can lock us up and that would change NOTHING. If we tell the government they have no power over us, they have nothing left to fight with.
 
 
-- [[1]](https://abcnews.go.com/Business/looming-railroad-strike-cripple-us-economy-transportation/story?id=89587287) Railroad Strike could lead to $2B/day economic output loss.
+### Union Links
 
-- [[2]](https://finance.yahoo.com/news/much-freedom-convoy-cost-us-175651641.html) Freedom Convoy economic cost
+[Smart Union - Air, Rail, Trucking](https://smart-union.org/)
 
-- [[3]](https://www.forbes.com/sites/jackkelly/2022/01/12/there-is-a-massive-trucker-shortage-causing-supply-chain-disruptions-and-high-inflation/?sh=5339dfba5ec4) Trucker shortage
+[UPS Teamsters](https://www.upsteamstersunited.org/)
 
-- [[4]](https://www.iata.org/en/iata-repository/publications/economic-reports/the-united-states--value-of-aviation/) Airline economic statistics
+[US Teamsters - Freight Division](https://teamster.org/divisions/freight-dvision/)
+
+[List of Rail Road Worker Unions](https://www.railroadworkersunited.org/us-unions-in-national-bargaining)
+
+[Transport Workers Union of America](https://www.twu.org/)
+
+[Amalgamated Transit Union](https://atu.org/)
+
+
+### Sources
+
+
+##### [\[1\]](https://abcnews.go.com/Business/looming-railroad-strike-cripple-us-economy-transportation/story?id=89587287) Railroad Strike could lead to $2B/day economic output loss.
+
+
+##### [\[2\]](https://finance.yahoo.com/news/much-freedom-convoy-cost-us-175651641.html) Freedom Convoy economic cost
+
+
+##### [\[3\]](https://www.forbes.com/sites/jackkelly/2022/01/12/there-is-a-massive-trucker-shortage-causing-supply-chain-disruptions-and-high-inflation/?sh=5339dfba5ec4) Trucker shortage
+
+
+##### [\[4\]](https://www.iata.org/en/iata-repository/publications/economic-reports/the-united-states--value-of-aviation/) Airline economic statistics
